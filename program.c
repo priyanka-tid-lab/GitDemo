@@ -4,5 +4,6 @@
 int main() {
     printf("Hello World!\n");
     printf("Learning Git fetch and rebase.\n");
+    getch();
     return 0;
 }
